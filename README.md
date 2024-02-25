@@ -15,6 +15,8 @@ This is a social media application built using Angular. It allows users to creat
 
 - User Search:
   - Users can search for other users by their usernames.
+  - ![image](https://github.com/krishnapriyasri2004/Social--app/assets/149895153/431a45c9-a0f5-40f4-95cf-d8f4293d89a5)
+
 ![image](https://github.com/krishnapriyasri2004/Social--app/assets/149895153/5b2a1582-a329-4145-847d-97a8fedb3c42)
 ![image](https://github.com/krishnapriyasri2004/Social--app/assets/149895153/13c2eb1c-6c13-4bec-911b-0796bcfc8d0b)
 ![image](https://github.com/krishnapriyasri2004/Social--app/assets/149895153/0d1579ee-1016-4d25-895d-0b697c9ae6f3)
